@@ -1,2 +1,5 @@
-# NLP-Miniproject
-NLP + BERT 미니 프로젝트
+# NLP_practice
+
+- NLTK(Natural Toolkit for python)
+- Gensim(topic modeling)
+- SpaCy
