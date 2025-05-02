@@ -1,4 +1,4 @@
-# 🧠 NLP Mini Project
+# Text Analytics
 
 - NLTK
 - LLM - Using Chat GPT API
