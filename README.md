@@ -1,8 +1,11 @@
 # Text Analytics
 
-- NLTK
-  - import pandas as pd
-  - import re
-  - from sklearn.preprocessing import LabelEncoder
-  - from nltk.tokenize import RegexpTokenizer
+- NLTK (1)
+  - sent_tokenize
+  - word_tokenize
+  - stop word 제거
+  - Stemming (LancasterStemmer)
+  - Lemmatization (WordNetLemmatizer)
+  - Bag of words(BOW) : Countvectorizer / TfidfVectorizer
+  - 희소행렬 : COO / CSR
 - LLM - Using Chat GPT API
