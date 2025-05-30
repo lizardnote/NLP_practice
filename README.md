@@ -1,6 +1,8 @@
 # Text Analytics
 
-- NLTK (1)
+- RAG
+- HuggingFace
+- NLTK
   - sent_tokenize
   - word_tokenize
   - stop word 제거
