@@ -5,17 +5,17 @@
 
 ---
 
-## 🔍 주요 기술 스택
+### 🔍 주요 기술 스택
 
-### 📌 RAG (Retrieval-Augmented Generation)
+#### RAG (Retrieval-Augmented Generation)
 - 문서 검색 기반 LLM 응답 생성 구조 실험
 - LangChain 및 FAISS 연동
 
-### 🤖 HuggingFace Transformers
+#### HuggingFace Transformers
 - 사전학습 언어모델 기반 임베딩 및 문서 검색 테스트
 - `sentence-transformers`, `BAAI/bge-m3` 등 활용
 
-### 🧰 NLP 전처리 with NLTK
+#### NLP 전처리 with NLTK
 - 문장 분리: `sent_tokenize`
 - 단어 분리: `word_tokenize`
 - 불용어 제거
@@ -24,13 +24,13 @@
 - Bag-of-Words (BOW): `CountVectorizer`, `TfidfVectorizer`
 - 희소행렬 표현: `COO`, `CSR` 포맷
 
-### 💬 LLM API 활용
+#### LLM API 활용
 - OpenAI GPT API를 이용한 프롬프트 기반 질의응답 테스트
 - GPT-4 모델과의 연동 및 응답 흐름 확인
 
 ---
 
-## 🛠️ Text Preprocessing Tools
+### 🛠️ Text Preprocessing Tools
 
 | 라이브러리 | 설명 |
 |------------|------|
@@ -41,7 +41,7 @@
 
 ---
 
-## ✅ 학습 목표
+### ✅ 학습 목표
 
 - 다양한 한국어 전처리 도구 실습 및 비교
 - 문서 임베딩 기반 검색 시스템 구성 실습 (FAISS, Chroma 등)
@@ -50,10 +50,7 @@
 
 ---
 
-## 가터'
----
-
-## 💬 기타
+### 💬 기타
 이 프로젝트는 학습용으로 구성되었으며, 일부 데이터셋 및 API는 개인 실습 범위 내에서 사용되었습니다.
 
 
